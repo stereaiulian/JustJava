@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doar Java</string>
+    <string name="toppings">Topinguri</string>
+    <string name="name">Nume</string>
+    <string name="whipped_cream">Crema</string>
+    <string name="chocolate">Ciocolata</string>
+    <string name="quantity">Cantitate</string>
+    <string name="order_summary">Ce ai comandat</string>
+    <string name="order">Comanda</string>
+    <string name="add_whipped_cream">Adauga crema</string>
+    <string name="add_chocolate">Adauga ciocolata</string>
+    <string name="total">"Total: Lei "</string>
+    <string name="thank_you">Multumim</string>
+    <string name="quantity_must_be_lower_than">Cantitatea trebuie sa fie mai mica de</string>
+    <string name="quantity_maus_be_greater_than">Cantitatea trebuie sa fie mai mare decat</string>
+</resources>
